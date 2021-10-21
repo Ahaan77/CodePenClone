@@ -1,4 +1,4 @@
-# Dyte.io Frontend Task
+# CodePen Clone
 
 In the project directory, you can run:
 
